@@ -1,0 +1,23 @@
+.category-select {
+	display: flex;
+	flex-direction: column;
+}
+
+.category-select label {
+	margin: 0 0 8px 0;
+	font-size: 30px;
+	line-height: 34px;
+}
+
+.category-select select {
+	font-size: 24px;
+}
+
+.category-select select:active {
+	border: none;
+	outline: none;
+}
+
+.category-select option {
+	text-align: center;
+}
