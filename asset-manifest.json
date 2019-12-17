@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nicholasplachance/imperial_to_metric_React/static/css/main.289467dc.chunk.css",
+    "main.js": "/nicholasplachance/imperial_to_metric_React/static/js/main.ce8cee11.chunk.js",
+    "main.js.map": "/nicholasplachance/imperial_to_metric_React/static/js/main.ce8cee11.chunk.js.map",
+    "runtime-main.js": "/nicholasplachance/imperial_to_metric_React/static/js/runtime-main.38c0605b.js",
+    "runtime-main.js.map": "/nicholasplachance/imperial_to_metric_React/static/js/runtime-main.38c0605b.js.map",
+    "static/js/2.7e12914a.chunk.js": "/nicholasplachance/imperial_to_metric_React/static/js/2.7e12914a.chunk.js",
+    "static/js/2.7e12914a.chunk.js.map": "/nicholasplachance/imperial_to_metric_React/static/js/2.7e12914a.chunk.js.map",
+    "index.html": "/nicholasplachance/imperial_to_metric_React/index.html",
+    "precache-manifest.4d65a96a9d74fd796ce0ea62fcb93f15.js": "/nicholasplachance/imperial_to_metric_React/precache-manifest.4d65a96a9d74fd796ce0ea62fcb93f15.js",
+    "service-worker.js": "/nicholasplachance/imperial_to_metric_React/service-worker.js",
+    "static/css/main.289467dc.chunk.css.map": "/nicholasplachance/imperial_to_metric_React/static/css/main.289467dc.chunk.css.map",
+    "static/js/2.7e12914a.chunk.js.LICENSE": "/nicholasplachance/imperial_to_metric_React/static/js/2.7e12914a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/nicholasplachance/imperial_to_metric_React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38c0605b.js",
+    "static/js/2.7e12914a.chunk.js",
+    "static/css/main.289467dc.chunk.css",
+    "static/js/main.ce8cee11.chunk.js"
+  ]
+}
